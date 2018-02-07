@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.city-name{
+  padding-left: 2%;
+  font-size: 50px;
+}
+
+.weather-icon {
+  padding-top: 1%;
+}
